@@ -1,0 +1,130 @@
+[
+    {
+        "id": "08230001",
+        "name": "Kinga Wangmo",
+        "programme": "BEd IT",
+        "year": "4th Year",
+        "semester": "Semester 8",
+        "marks": 85
+    },
+    {
+        "id": "08230002",
+        "name": "Choden",
+        "programme": "BEd English/His",
+        "year": "2nd Year",
+        "semester": "Semester 4",
+        "marks": 78
+    },
+    {
+        "id": "08230003",
+        "name": "Wangchuk",
+        "programme": "BEd Phy/Math",
+        "year": "3rd Year",
+        "semester": "Semester 5",
+        "marks": 92
+    },
+    {
+        "id": "08230004",
+        "name": "Jigme",
+        "programme": "BEd IT",
+        "year": "4th Year",
+        "semester": "Semester 7",
+        "marks": 88
+    },
+    {
+        "id": "08230005",
+        "name": "Pelzang",
+        "programme": "BEd Bio/Chem",
+        "year": "1st Year",
+        "semester": "Semester 2",
+        "marks": 74
+    },
+    {
+        "id": "08230006",
+        "name": "Migma",
+        "programme": "BEd English/Geo",
+        "year": "3rd Year",
+        "semester": "Semester 6",
+        "marks": 81
+    },
+    {
+        "id": "08230007",
+        "name": "Rangdrel",
+        "programme": "BEd Phy/Math",
+        "year": "2nd Year",
+        "semester": "Semester 3",
+        "marks": 69
+    },
+    {
+        "id": "08230008",
+        "name": "Dema",
+        "programme": "MEd English",
+        "year": "1st Year",
+        "semester": "Semester 1",
+        "marks": 90
+    },
+    {
+        "id": "08230009",
+        "name": "Sanjay",
+        "programme": "BEd IT",
+        "year": "2nd Year",
+        "semester": "Semester 4",
+        "marks": 76
+    },
+    {
+        "id": "08230010",
+        "name": "Puja",
+        "programme": "MEd Math",
+        "year": "2nd Year",
+        "semester": "Semester 3",
+        "marks": 94
+    },
+    {
+        "id": "08230011",
+        "name": "Namgay",
+        "programme": "BEd English/His",
+        "year": "3rd Year",
+        "semester": "Semester 5",
+        "marks": 83
+    },
+    {
+        "id": "08230012",
+        "name": "Tandin",
+        "programme": "BEd Bio/Chem",
+        "year": "4th Year",
+        "semester": "Semester 8",
+        "marks": 87
+    },
+    {
+        "id": "08230013",
+        "name": "Karma",
+        "programme": "BEd English/Geo",
+        "year": "1st Year",
+        "semester": "Semester 1",
+        "marks": 72
+    },
+    {
+        "id": "08230014",
+        "name": "Sonam",
+        "programme": "MEd English",
+        "year": "2nd Year",
+        "semester": "Semester 4",
+        "marks": 89
+    },
+    {
+        "id": "08230015",
+        "name": "Pema",
+        "programme": "BEd IT",
+        "year": "3rd Year",
+        "semester": "Semester 6",
+        "marks": 95
+    },
+    {
+        "id": "08230137",
+        "name": "Karma Yangs",
+        "programme": "BEd IT",
+        "year": "4th Year",
+        "semester": "Semester 7",
+        "marks": 89
+    }
+]
